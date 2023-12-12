@@ -1,0 +1,39 @@
+
+
+.display-3{
+    margin-left: 40% !important;
+    margin-top: 2% !important;
+}
+
+
+.lead {
+
+    margin-left: 20% !important;
+
+}
+
+
+.lead span{
+    margin: 20% !important;
+}
+
+
+.row{
+     margin-left: 5% !important;
+     margin-right: 5% !important;
+}
+
+
+ .col-md-3 span{
+     color: black;
+     font-weight: 600;
+     margin-left: 20% !important;
+ }
+
+ .col-md-3 i{
+    color:rgb(15, 13, 13);
+    margin-left: 20% !important;
+    font-size: 20px;
+ }
+
+ 
